@@ -9,9 +9,9 @@ const About = () => {
                 <div className="flex flex-col gap-1">
                     <p className={`text-3xl font-semibold`}>About Me</p>
                     <p className={`text-lg font-medium`}>
-                        My goal is to become a full stack developer. But as for now I'm focusing
+                        My goal is to become a full stack developer. But as for now I&apos;m focusing
                         as a frontend developer first. And i realize i still lacking a lot in many aspects, 
-                        that's why I'm willing to learn so i could grow to be better.
+                        that&apos;s why I&apos;m willing to learn so i could grow to be better.
                     </p>
                 </div>
                 <div className="flex flex-col gap-1">
